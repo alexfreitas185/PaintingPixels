@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\PaintingPixels\PaintingPixels\bin\Release\netcoreapp3.0\PaintingPixels.exe
+C:\Users\Alex\source\repos\PaintingPixels\PaintingPixels\bin\Release\netcoreapp3.0\PaintingPixels.deps.json
+C:\Users\Alex\source\repos\PaintingPixels\PaintingPixels\bin\Release\netcoreapp3.0\PaintingPixels.runtimeconfig.json
+C:\Users\Alex\source\repos\PaintingPixels\PaintingPixels\bin\Release\netcoreapp3.0\PaintingPixels.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\PaintingPixels\PaintingPixels\bin\Release\netcoreapp3.0\PaintingPixels.dll
+C:\Users\Alex\source\repos\PaintingPixels\PaintingPixels\bin\Release\netcoreapp3.0\PaintingPixels.pdb
+C:\Users\Alex\source\repos\PaintingPixels\PaintingPixels\obj\Release\netcoreapp3.0\PaintingPixels.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\PaintingPixels\PaintingPixels\obj\Release\netcoreapp3.0\PaintingPixels.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\PaintingPixels\PaintingPixels\obj\Release\netcoreapp3.0\PaintingPixels.AssemblyInfo.cs
+C:\Users\Alex\source\repos\PaintingPixels\PaintingPixels\obj\Release\netcoreapp3.0\PaintingPixels.dll
+C:\Users\Alex\source\repos\PaintingPixels\PaintingPixels\obj\Release\netcoreapp3.0\PaintingPixels.pdb
